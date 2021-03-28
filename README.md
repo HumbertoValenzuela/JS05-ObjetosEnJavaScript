@@ -1,5 +1,5 @@
-# JS05-ObjetosEnJavaScript
-05 Objetos en JavaScript
+# JS07-ObjetosEnJavaScript
+07 Objetos en JavaScript
 
 * 1. Crear Objetos en JavaScript
 * 2. Como Acceder a los valores de un objeto
